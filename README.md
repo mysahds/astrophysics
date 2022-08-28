@@ -1,11 +1,7 @@
 # astrophysics
 
 
-
-
 # GitHub Pages:
-
-
 
 
 # Checkist
